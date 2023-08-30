@@ -1,0 +1,15 @@
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\bin\Debug\net6.0\Gerador de numeros de loterias.exe
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\bin\Debug\net6.0\Gerador de numeros de loterias.deps.json
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\bin\Debug\net6.0\Gerador de numeros de loterias.runtimeconfig.json
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\bin\Debug\net6.0\Gerador de numeros de loterias.dll
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\bin\Debug\net6.0\Gerador de numeros de loterias.pdb
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.csproj.AssemblyReference.cache
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.AssemblyInfoInputs.cache
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.AssemblyInfo.cs
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.csproj.CoreCompileInputs.cache
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.dll
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\refint\Gerador de numeros de loterias.dll
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.pdb
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\Gerador de numeros de loterias.genruntimeconfig.cache
+C:\Users\diego tsil\Source\Repos\java\Gerador de numeros de loterias\obj\Debug\net6.0\ref\Gerador de numeros de loterias.dll
