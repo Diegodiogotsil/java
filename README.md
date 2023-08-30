@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Diegodiogotsil/java)
 
 
-# java gerador de numeros de loterias
+# gerador de numeros de loterias
 ## Primeiro projeto em Java para gerar números de loteria
 
 
